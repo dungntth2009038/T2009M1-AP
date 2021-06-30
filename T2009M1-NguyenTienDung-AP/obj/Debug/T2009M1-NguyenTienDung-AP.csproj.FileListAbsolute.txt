@@ -1,0 +1,6 @@
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\bin\Debug\T2009M1_NguyenTienDung_AP.exe
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\bin\Debug\T2009M1_NguyenTienDung_AP.pdb
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\obj\Debug\T2009M1-NguyenTienDung-AP.csprojAssemblyReference.cache
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\obj\Debug\T2009M1-NguyenTienDung-AP.csproj.CoreCompileInputs.cache
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\obj\Debug\T2009M1_NguyenTienDung_AP.exe
+C:\Users\My pc\RiderProjects\T2009M1-NguyenTienDung-AP\T2009M1-NguyenTienDung-AP\obj\Debug\T2009M1_NguyenTienDung_AP.pdb
